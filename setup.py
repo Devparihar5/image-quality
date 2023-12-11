@@ -37,7 +37,7 @@ setup(
         "Pillow>=5.2.0",
         "numpy>=1.16.4",
         "scipy>=1.3.0",
-        "scikit-image>=0.15.0",
+        "scikit-image==0.18.3",
         "libsvm>=3.23.0",
     ],
     extras_require={
